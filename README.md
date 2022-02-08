@@ -1,4 +1,5 @@
 ### Hi there 👋
+Perkenalkan nama saya **Talha Zulfakhri**.\
 
 <!--
 **talhazulfakhri/talhazulfakhri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
